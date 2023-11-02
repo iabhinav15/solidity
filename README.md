@@ -12,8 +12,8 @@ This is a simple Solidity smart contract named "MyToken" for creating and managi
 The contract offers the following features:
 
 - **Token Information**:
-  - `token_name`: A public string variable that stores the name of the token, which is set to "Sunrise".
-  - `token_symbol`: A public string variable that stores the symbol of the token, which is set to "SR".
+  - `token_name`: A public string variable that stores the name of the token, which is set to "Abhinav_Singh".
+  - `token_symbol`: A public string variable that stores the symbol of the token, which is set to "AB15".
 
 - **Total Supply**:
   - `total_amt`: A public unsigned integer variable that keeps track of the total supply of tokens. It's initialized to 0.
